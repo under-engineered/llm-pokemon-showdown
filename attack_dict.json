@@ -1,0 +1,31 @@
+{
+    "attack": [
+        "Rapid Spin",
+        "Headlong Rush",
+        "Close Combat",
+        "Knock Off",
+        "U-turn",
+        "Pyro Ball",
+        "Flip Turn",
+        "Mirror Coat",
+        "Aqua Jet",
+        "Body Slam",
+        "Volt Switch",
+        "Hurricane",
+        "Discharge",
+        "Future Sight",
+        "Sludge Bomb",
+        "Ice Beam",
+        "Close Combat",
+        "Spirit Break",
+        "Knock Off",
+        "Shadow Sneak"
+    ],
+    "status_move": [
+        "Will-O-Wisp",
+        "Toxic",
+        "Court Change",
+        "Roost",
+        "Chilly Reception"
+    ] 
+}

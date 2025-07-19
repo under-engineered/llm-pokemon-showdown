@@ -1,0 +1,84 @@
+Background
+
+As Scarf Tusk isn't a reliable spinner, I needed something that gets rid of hazards much more consistently, and obviously I picked the goat cinderace. That way I dont need to have a rocker aswell, and I don't need to worry about adding a ground type because I already have my Tusk. Now I just added pivot mons in the form of Alomomola and Slowking-Galar with sets that enjoy hazards being off, and to close it up I needed a Strong mon that will help me utilize Future Sights fully for the ultimate core breaking experience. At first I went specs Valiant, but it didn't hit hard enough on mons like Tera'd Ogerpon and Ting Lu. So I came up with the idea of running Banded Valiant, as I remember I used it before and it was surprisingly great. Kept changing the Teras after hard games until I found what I believed to be the most optimal ones.
+
+The Team
+Great Tusk @ Choice Scarf
+Ability: Protosynthesis
+Tera Type: Ground
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Rapid Spin
+- Headlong Rush
+- Close Combat
+- Knock Off
+
+The RK goat. Aside from the massive element of surprise, that makes players just give up their fast sweepers, even when its scouted it is extremely good. You get it in from a fellow pivot mon, and threaten almost every fast setup or a scarfer that is slower than base 87 speed. I especially love threatning scarf gholds with it, cinderace leads, darkrais, and there are so many others. Really, once I started using it I'm having hard time using other sets... With Tera Ground you secure some super important KOs, such as weezing galar, LEAD DRAGAPULT, and some other mons in mid game scenarios. Extremely well RKing machine.
+
+Cinderace @ Heavy-Duty Boots
+Ability: Blaze
+Tera Type: Ghost
+EVs: 252 HP / 24 Atk / 232 Spe
+Jolly Nature
+- Will-O-Wisp
+- U-turn
+- Pyro Ball
+- Court Change
+
+I mean, you really can't go wrong with Cinderace. Arguably the best hazard control mon, Cinderace offers a huge space for using mons and movesets that are usually weak to hazards. Without having to run boots on some mons, you open yourself to a great world of possibilities and creativity, and it especially being enabled by a bulky cinderace like the one here. Lives hits and Court Changes on so many things, Cinderace is truly one of a kind.
+
+Alomomola @ Assault Vest
+Ability: Regenerator
+Tera Type: Dark
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+IVs: 0 Spe
+- Flip Turn
+- Mirror Coat
+- Aqua Jet
+- Body Slam
+
+The glue of the team. Assault Vest Alo is unbelieveably bulky. It lives attacks like no other, and offers an extremely consistent pivot role, while scaring special attackers in the process with Mirror Coat. What's ever more beautiful about spdef Alo is that it usually doesn't even mind losing its item. Whether you get tricked or just knocked off, Alo is still super bulky and can easily switch in into Gholdengo and Darkrai and what not, only fearing some unfortunate rng this time. Body Slam is for catching these annoying Wellsprings and Volcanions on the switch.
+
+Zapdos @ Rocky Helmet
+Ability: Static
+Tera Type: Electric
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+IVs: 0 Atk
+- Volt Switch
+- Hurricane
+- Discharge
+- Roost
+
+The mon I initially wanted to build around. I wanted Rocky Helmet on Zappy because I thought about how much I dislike boots and how so often it is a waste of an item, and also how well zapdos punishes offensive mons with static, so in my mind I was thinking ok let's just punish them twice with the addition of Rocky Helmet.
+This set is amazing. A nightmare for the Tusk bros to face, and a horrid sight for Dragonites, Rocky truly takes zapdos to the next level. Super helpful with exhausting the biggest OU threats such as Gambit and Zama, I don't see myself running boots back ever again on it.
+
+Slowking-Galar @ Shuca Berry
+Ability: Regenerator
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpA
+Relaxed Nature
+IVs: 0 Atk / 0 Spe
+- Future Sight
+- Sludge Bomb
+- Ice Beam
+- Chilly Reception
+
+No need for introduction. Glowking is one insane Pokemon that does everything, takes hits, beats offense, beats stall, what not. Bold, that for some reason barely sees any usage, is a super good Glowking set that has a different role from the spdef variation. With the help of shuca, it funnily enough became my lando switch in, and even a Tusk switch. Thanks to the Shuca and Headlong dropping spdef, Ice Beam can kill in return the scary ground types. With future sight Glowking becomes a huge threat to stall and balance, and a lot of times makes the games feel easy.
+
+Iron Valiant @ Choice Band
+Ability: Quark Drive
+Tera Type: Ghost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Spirit Break
+- Knock Off
+- Shadow Sneak
+
+Him. Choice Band Iron Valiant. This rare gem is a beast at turning games around. Much like Scarf Tusk, the element of surprise can play a huge role here. The damage output is insane and all it takes is the first turn Val comes in to lure a huge threat in, predicting a moonblast from us. CC from Banded Val ohkoes Oger, Ting Lu and Knock off ohkoes a spdef Glowking, offensive Ghold and more. All of these are mons that would usually stay in against a Valiant, as they never expect to be bamboozled an unseen before CB set. Paired with the future sight from Glowking, nothing is safe. Banded CC+Fsight cover almost the whole tier, and make opponents struggle hard. I went with Tera Ghost and Shadow Sneak to clutch some important kills against scary set up users.
+
+Threats
+:kyurem: DD Kyurem. This one can get really ugly. Slowking lives +1 icicle easily but +2 with five hits has a shot to kill. Gotta play around it and usually stay with the mon that's against the switched in Kyurem. What's important to check is if the damage at +1 is Adamant or Jolly. If it's Ada, then Scarf Tusk just revenge it and you're all good. If not, you can also make it Scale Shot a certain mon and with Tera Ghost Sneak from CB Val revenge it. It's definitely manageable but sometimes kinda awkward.
+:dragapult: DD and CB are sets that sometimes are weird to play against. Not as scary as Kyu, but surely worth noting.
