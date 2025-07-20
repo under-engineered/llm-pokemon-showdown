@@ -1,1 +1,8 @@
-# llm-pokemon-showdown
+YouTube Video:
+https://youtu.be/DMgIw9tZQS4
+
+AI was used during the coding process + wrote all the documentation and renamed variables.
+
+# Tech Overview
+
+This project implements an intelligent automated battle bot for Pokemon Showdown using a sophisticated technology stack combining web automation, AI decision-making, and real-time battle state analysis. The system leverages **Selenium WebDriver** with **undetected-chromedriver** for stealth web automation that can navigate Pokemon Showdown's interface, automatically handle login, team import, and battle interactions. At its core, the bot uses **Anthropic's Claude LLM** (accessed via **LangChain**) as an AI trainer that analyzes complete battle situations including team compositions, type effectiveness, battle history, and opponent information to make strategic decisions. **Pydantic** models ensure type-safe data structures for Pokemon stats, moves, and battle states, while **BeautifulSoup** handles complex HTML parsing to extract real-time information from Pokemon tooltips and battle logs. The architecture separates concerns between the `AceTrainer` class (AI decision-making with structured output generation) and the `ShowdownBot` class (web automation and state management), creating a robust system that can continuously queue for battles, execute turn-by-turn strategies, and maintain detailed reasoning logs for analysis and improvement.
